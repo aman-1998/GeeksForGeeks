@@ -4,21 +4,21 @@ School Accuracy: 62.22% Submissions: 1405 Points: 0
 For a given 3 digit number, find whether it is armstrong number or not. An Armstrong 
 number of three digits is an integer such that the sum of the cubes of its digits is 
 equal to the number itself. Return "Yes" if it is a armstrong number else return "No".
-NOTE: 371 is an Armstrong number since 33 + 73 + 13 = 371
+NOTE: 371 is an Armstrong number since 3^3 + 7^3 + 1^3 = 371
 
 Example 1:
 
 Input: N = 153
 Output: "Yes"
 Explanation: 153 is an Armstrong number
-since 13 + 53 + 33 = 153.
+since 1^3 + 5^3 + 3^3 = 153.
 Hence answer is "Yes".
 Example 2:
 
 Input: N = 370
 Output: "Yes"
 Explanation: 370 is an Armstrong number
-since 33 + 73 + 03 = 370.
+since 3^3 + 7^3 + 0^3 = 370.
 Hence answer is "Yes".
 
 Your Task:  

@@ -42,7 +42,7 @@ Expected Auxiliary Space: O(1)
  
 
 Constraints:
--105 <= N <= 105
+-10^5 <= N <= 10^5
  */
 
 package mathematical;

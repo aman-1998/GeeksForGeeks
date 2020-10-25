@@ -28,7 +28,7 @@ Expected Space Complexity: O(1)
  
 
 Constraints:
-1 <= N <= 1015
+1 <= N <= 10^15
  */
 
 package mathematical;

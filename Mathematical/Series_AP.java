@@ -38,8 +38,8 @@ Expected Auxillary Space:O(1)
 
 
 Constraints:
--104<=A1,A2<=104
-1<=N<=103
+-10^4<=A1,A2<=10^4
+1<=N<=10^3
  */
 
 package mathematical;

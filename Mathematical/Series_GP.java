@@ -24,7 +24,7 @@ the 3rd term.
 Your Task:
 You don't need to read or print anything. Your task is to complete the function
  Nth_term() which takes A, R and N as input parameter ans returns Nth term of 
- the GP series modulo 109 + 7.
+ the GP series modulo 10^9 + 7.
  
 
 Expected Time Complexity: O(log2(N))
