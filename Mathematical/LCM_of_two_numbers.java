@@ -50,8 +50,8 @@ public class LCM_of_two_numbers {
 	public static void main(String[] args)
 	{
 		Scanner in = new Scanner(System.in);
-		long A = in.nextInt();
-		long B = in.nextInt();
+		long A = in.nextLong();
+		long B = in.nextLong();
 		Long[] arr = lcmAndGcd(A, B);
 		System.out.println(arr[0]+" "+arr[1]);
 	}
