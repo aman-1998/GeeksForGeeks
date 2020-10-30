@@ -33,7 +33,7 @@ Expected Space Complexity: O(1)
  
 
 Constraints:
-1 <= N <= 109
+1 <= N <= 10^9
  */
 
 package mathematical;
