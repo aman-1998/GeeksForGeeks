@@ -31,7 +31,7 @@ Output
 3/500
 
 Explanation:
-In above test case 1/500+2/500=3/500
+In above test case 1/500 + 2/500 = 3/500
 
  
 
