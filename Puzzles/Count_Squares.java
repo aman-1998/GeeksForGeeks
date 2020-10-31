@@ -6,7 +6,6 @@ You are given a number N, you have to output the number of integers less than N 
 space S.
 
  
-
 Example 1:
 
 Input :
