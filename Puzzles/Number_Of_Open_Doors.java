@@ -48,7 +48,7 @@ Expected Auxiliary Space: O(1)
  
 
 Constraints:
-1 <= N <= 1012
+1 <= N <= 10^12
  */
 
 package puzzles;
