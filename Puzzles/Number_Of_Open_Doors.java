@@ -10,7 +10,7 @@ You have to find the number of open doors at the end of the procedure.
 
 Look at the diagram below for better understanding:
 
-1. Initial state =>  ----------door(CL)----------door(CL)---------door(CL)----------door(CL)-----------door(CL)---------door(CL)----------
+1. Initial state =>  ----------door(CLOSED)----------door(CLOSED)---------door(CLOSED)----------door(CLOSED)-----------door(CLOSED)---------door(CLOSED)----------
 
  
 
